@@ -1,2 +1,2 @@
-# GDA1-108523
-Grundlagen der Anwendungsentwicklung A4
+# Grundlagen der Anwendungsentwicklung A4
+Submitted by 108523
